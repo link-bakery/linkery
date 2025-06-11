@@ -10,8 +10,8 @@
 ```
 📂 linkery/
 ├── 📁 linkery/               # 🔗 https://github.com/link-bakery/linkery
-    └── 📄 example.env
-    └── ...
+│   └── 📄 example.env
+│   └── ...
 ├── 📁 linkery-backend/       # 🔗 https://github.com/link-bakery/linkery-backend
 ├── 📁 linkery-docs/          # 🔗 https://github.com/link-bakery/linkery-docs
 ├── 📁 linkery-frontend/      # 🔗 https://github.com/link-bakery/linkery-frontend
