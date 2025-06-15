@@ -6,6 +6,8 @@ services:
       - ./proxy:/etc/nginx/conf.d
     ports:
       - 80:80
+    depends_on: 
+      - linkery-backend
   linkery-backend:
     container_name: linkery-backend
     build: ../linkery-backend
